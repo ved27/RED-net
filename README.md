@@ -1,2 +1,2 @@
 # RED-net
-RED30 implementation
+RED30 implementation in caffe
